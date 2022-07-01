@@ -142,7 +142,6 @@ class Main:
 				exit()
 		else:
 			Main()
-#yahan nichy kch cherna ni just name chnge krna
 	def fbtua(self):
 		x = 11111111
 		xx = 99999999
