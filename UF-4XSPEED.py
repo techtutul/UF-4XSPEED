@@ -130,7 +130,7 @@ class Main:
 		print("%s [%s•%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G))
 		print("───────────────────────────────────────────────────────× ")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free Trail)"%(G,R,G,Y,B))
-		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ")
+		tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : 1")
 		print("───────────────────────────────────────────────────────× ")
 		if tanya in ["", " "]:
 			Main()
